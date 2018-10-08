@@ -17,7 +17,6 @@ public class DemoTestApplicationTests {
     public void test() {
 
         System.err.println("test== ");
-    
     }
 
 }
