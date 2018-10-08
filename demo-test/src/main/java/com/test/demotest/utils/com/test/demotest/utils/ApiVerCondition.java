@@ -12,6 +12,14 @@ import java.util.regex.Pattern;
  * @Date: 2018/10/817:28
  * @Version: 1.0
  */
+
+/**
+ * 首先，匹配过滤出当前访问接口中是否存在v(1-9)，
+ * 如果存在，继续判断格式是否对，否则报错返回。
+ * 其次，比较请求地址中版本与控制器中版本，如果
+ * 请求的版本值大于控制器中版本值，则取控制器版本
+ * 值继续接口后续访问操作。
+ */
 public class ApiVerCondition implements RequestCondition<ApiVerCondition> {
 
     private final static Pattern VERSION_PREFIX_PATTERN = Pattern.compile("v(\\d+)/");
