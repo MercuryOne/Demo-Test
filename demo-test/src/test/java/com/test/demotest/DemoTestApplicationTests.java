@@ -16,7 +16,7 @@ public class DemoTestApplicationTests {
     @Test
     public void test() {
 
-        System.err.println("test ");
+        System.err.println("test== ");
     
     }
 
