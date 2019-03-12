@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7565b0f6-7901-43c8-93ce-38e3882f638e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-test/src/test/java/com/test/demotest/DemoTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-test/src/test/java/com/test/demotest/DemoTestApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="7565b0f6-7901-43c8-93ce-38e3882f638e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/demo-test/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,48 +13,58 @@
     <session id="-1551870509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="4" />
-          <entry key="java" value="9" />
-          <entry key="properties" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="3" />
+          <entry key="md" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="9" />
-          <entry key="Properties" value="1" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="731" />
+          <entry key="java" value="1174" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="731" />
+          <entry key="JAVA" value="1174" />
+          <entry key="PLAIN_TEXT" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="git.branch.create.new" value="2" />
+          <entry key="git.branch.delete.local" value="1" />
+          <entry key="git.branch.delete.remote" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-test/src/test/java/com/test/demotest/DemoTestApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -66,6 +72,8 @@
       <find>ApiRequestMapping</find>
       <find>getCustomTypeCondition</find>
       <find>RequestMappingHandlerMapping</find>
+      <find>put</find>
+      <find>table</find>
     </findStrings>
     <dirStrings>
       <dir>F:\git-project\Demo-Test\demo-test\src\main\java</dir>
@@ -74,6 +82,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,10 +109,27 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo-test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="410" />
+    <option name="x" value="161" />
+    <option name="y" value="61" />
     <option name="width" value="1422" />
-    <option name="height" value="1047" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -119,181 +149,24 @@
               <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
               <item name="demo-test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demotest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demotest" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo-Test" type="462c0819:PsiDirectoryNode" />
-              <item name="demo-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demotest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-starter-web:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-starter-web:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-starter-web-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-starter-web:2.0.5.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-starter-web-2.0.5.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo-Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.0.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.0.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="session" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="ApiRequestMapping&#9;PSI&#9;JAVA://com.test.demotest.utils.com.test.demotest.utils.ApiRequestMapping&#10;DispatcherServlet&#9;FILE&#9;jar://C:/Users/ybc/.m2/repository/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.properties&#10;SpringDispatherServlet&#9;null&#9;null&#10;SpringDispatherServerlet&#9;null&#9;null" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="put&#9;PSI&#9;JAVA://org.hibernate.collection.internal.PersistentMap.Put&#10;ApiRequestMapping&#9;PSI&#9;JAVA://com.test.demotest.utils.com.test.demotest.utils.ApiRequestMapping&#10;DispatcherServlet&#9;FILE&#9;jar://C:/Users/ybc/.m2/repository/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.properties&#10;SpringDispatherServlet&#9;null&#9;null&#10;SpringDispatherServerlet&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539183792389" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-framework" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552397361356" />
+    <property name="last_opened_file_path" value="F:/software/JProfiler10_x64_jb51/jprofiler.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -308,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DemoTestApplicationTests.binarySelectTest">
+  <component name="RunManager" selected="JUnit.DemoTestApplicationTests.two">
     <configuration name="DemoTestApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-test" />
       <extension name="coverage">
@@ -323,7 +196,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTestApplicationTests.binarySelectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoTestApplicationTests.stringIntern" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-test" />
       <extension name="coverage">
         <pattern>
@@ -333,20 +206,80 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.test.demotest" />
       <option name="MAIN_CLASS_NAME" value="com.test.demotest.DemoTestApplicationTests" />
-      <option name="METHOD_NAME" value="binarySelectTest" />
+      <option name="METHOD_NAME" value="stringIntern" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoTestApplicationTests.two" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.demotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.demotest" />
+      <option name="MAIN_CLASS_NAME" value="com.test.demotest.DemoTestApplicationTests" />
+      <option name="METHOD_NAME" value="two" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo-test [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demo-test" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.demotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.demotest.DemoTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.DemoTestApplicationTests.binarySelectTest" />
+      <item itemvalue="Spring Boot.DemoTestApplication" />
       <item itemvalue="JUnit.DemoTestApplicationTests" />
+      <item itemvalue="Maven.demo-test [install]" />
+      <item itemvalue="JUnit.DemoTestApplicationTests.stringIntern" />
+      <item itemvalue="JUnit.DemoTestApplicationTests.two" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DemoTestApplicationTests.binarySelectTest" />
+        <item itemvalue="JUnit.DemoTestApplicationTests.two" />
+        <item itemvalue="JUnit.DemoTestApplicationTests.stringIntern" />
+        <item itemvalue="Maven.demo-test [install]" />
         <item itemvalue="JUnit.DemoTestApplicationTests" />
+        <item itemvalue="Spring Boot.DemoTestApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -360,83 +293,105 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539006000568</updated>
-      <workItem from="1539006001773" duration="11364000" />
+      <workItem from="1539006001773" duration="12407000" />
+      <workItem from="1541214893151" duration="1905000" />
+      <workItem from="1541216856581" duration="167000" />
+      <workItem from="1541217045074" duration="12700000" />
+      <workItem from="1541941244599" duration="598000" />
+      <workItem from="1541948458189" duration="7000" />
+      <workItem from="1543161969919" duration="861000" />
+      <workItem from="1543847713342" duration="547000" />
+      <workItem from="1543849381775" duration="432000" />
+      <workItem from="1547100125192" duration="1070000" />
+      <workItem from="1549953657623" duration="599000" />
+      <workItem from="1550407298548" duration="1205000" />
+      <workItem from="1551016061249" duration="1596000" />
+      <workItem from="1552396733858" duration="548000" />
     </task>
+    <task id="LOCAL-00001" summary="新建dev">
+      <created>1552396993698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552396993698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 55m 45s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_constantOutOfMemory - 2018.11.04 at 19h 44m 34s.xml">
+      <configuration name="DemoTestApplicationTests.constantOutOfMemory" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 56m 04s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 56m 20s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 58m 03s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DemoTestApplicationTests - 2018.10.10 at 22h 58m 56s.xml">
+    <history-entry file="DemoTestApplicationTests - 2018.11.04 at 20h 03m 18s.xml">
       <configuration name="DemoTestApplicationTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 59m 10s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 15m 13s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 22h 59m 22s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 15m 41s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests - 2018.10.10 at 22h 59m 45s.xml">
-      <configuration name="DemoTestApplicationTests" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 17m 10s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 23h 00m 00s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 19m 57s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoTestApplicationTests_binarySelectTest - 2018.10.10 at 23h 00m 20s.xml">
-      <configuration name="DemoTestApplicationTests.binarySelectTest" configurationId="JUnit" />
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 20m 16s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTestApplicationTests_stringIntern - 2018.11.05 at 22h 20m 40s.xml">
+      <configuration name="DemoTestApplicationTests.stringIntern" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTestApplicationTests_two - 2018.11.26 at 00h 08m 54s.xml">
+      <configuration name="DemoTestApplicationTests.two" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTestApplicationTests_two - 2018.11.26 at 00h 10m 35s.xml">
+      <configuration name="DemoTestApplicationTests.two" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11364000" />
+    <option name="totallyTimeSpent" value="22880000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="410" y="0" width="1422" height="1047" extended-state="0" />
+    <frame x="161" y="61" width="1422" height="778" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20236337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2717873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Dependency Viewer" weight="0.3298969" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" weight="0.32920355" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" anchor="bottom" id="Java Enterprise" visible="true" weight="0.3297362" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" weight="0.34478807" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33453238" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="0" weight="0.32875144" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.52806413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.60252005" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" visible="true" weight="0.4272623" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32875144" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32875144" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3297362" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="16" weight="0.185567" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24963072" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25535333" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.23875803" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -490,14 +445,6 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
             </State>
           </value>
         </entry>
@@ -507,95 +454,63 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新建dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建dev" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.5.RELEASE/spring-boot-autoconfigure-2.0.5.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class">
+    <entry file="file://$PROJECT_DIR$/demo-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-test/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final.jar!/org/hibernate/collection/internal/PersistentMap.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/core/io/ClassPathResource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.9.RELEASE/spring-context-5.0.9.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-test/src/main/java/com/test/demotest/utils/com/test/demotest/utils/ServletConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="143" column="90" lean-forward="true" selection-start-line="143" selection-start-column="90" selection-end-line="143" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-test/src/main/java/com/test/demotest/utils/com/test/demotest/utils/ApiRequestMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="245">
+          <caret line="331" column="16" selection-start-line="331" selection-start-column="16" selection-end-line="331" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-test/src/main/java/com/test/demotest/DemoTestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        <state relative-caret-position="228">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/software/jdk/jdk1.8-win/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="394" column="13" selection-start-line="394" selection-start-column="4" selection-end-line="394" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-test/src/test/java/com/test/demotest/DemoTestApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="114">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Golang/安装包/GoLand安装配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
